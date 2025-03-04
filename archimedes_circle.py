@@ -16,15 +16,12 @@ MESSAGES_TO_PRINT = [
     a tool used for approximating pi and calculating 
     the circumference and area of a circle from it.
     """,
-
     """
     To start, please enter the approximation for pi 
     (3-1,000,000 and must be an integer):""",
-
     """
     Now please enter your radius (cm - float number):
     """,
-    
     """
     How many decimals do you want to round it to? (Integer 1-12)
     """,
