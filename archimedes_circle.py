@@ -80,7 +80,7 @@ def main():
         )
         output2 = (
             "The area of your circle is "
-            + str(round(pi_approx * (radius**2), round_to_place))
+            + str(round(pi_approx * (radius ** 2), round_to_place))
             + " cm^2"
         )
         output3 = (
